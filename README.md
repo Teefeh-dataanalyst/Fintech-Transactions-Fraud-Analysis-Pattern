@@ -7,8 +7,11 @@ This project delivers an end-to-end fraud pattern analysis for a Nigerian fintec
 # Tools & Technologies
 
 MySQL 8.0 - database design, DDL scripts, data insertion, KPI queries, advanced SQL, view creation
+
 MySQL Workbench - query execution and schema management
+
 Power BI Desktop - MySQL connector, DAX measures, dashboard design
+
 Power Query (M) - data type enforcement on loaded views
 
 
