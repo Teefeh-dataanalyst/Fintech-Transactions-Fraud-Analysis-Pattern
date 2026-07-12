@@ -21,7 +21,7 @@ Overall Fraud : Of 170 total transactions, 54 were flagged; a fraud rate of 31.8
 
 
 Accounts Driving Fraud:
-Six accounts account for the majority of confirmed fraud events — ACC004, ACC007, ACC012, ACC017, ACC022, and ACC024. All six share a common profile: High risk tier, Unverified or Suspended status, Android mobile device, and transactions exclusively through the unverified merchant MER019. This clustering is the most significant finding in the dataset.
+Six accounts account for the majority of confirmed fraud events - ACC004, ACC007, ACC012, ACC017, ACC022, and ACC024. All six share a common profile: High risk tier, Unverified or Suspended status, Android mobile device, and transactions exclusively through the unverified merchant MER019. This clustering is the most significant finding in the dataset.
 
 
 Time-of-Day Pattern:
@@ -37,7 +37,7 @@ Mobile channel combined with Android device type carries the entire fraud burden
 
 
 Velocity Events:
-Two transaction pairs were detected within 60 minutes of each other on the same account — ACC004 on January 12 executed two transactions 3 minutes apart totalling ₦160,000. Both were flagged and subsequently confirmed as fraud.
+Two transaction pairs were detected within 60 minutes of each other on the same account - ACC004 on January 12 executed two transactions 3 minutes apart totalling ₦160,000. Both were flagged and subsequently confirmed as fraud.
 
 
 Flag Resolution:
